@@ -5,3 +5,7 @@ A rebase is a movement of changes from one branch onto another branch.
 Basically, merge connects two branches, whilst rebase takes one branch
 and puts it ontop of another branch creating one branch with a re-written
 history.
+hat is a remote repository?
+
+A remote repository is a version of your code or project that is kept somwhere
+besides your local machine (such as GitHub)
